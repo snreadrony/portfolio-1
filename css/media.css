@@ -1,0 +1,540 @@
+/* Extra small devices  */
+@media (max-width: 575.98px) {  
+    .navbar-light .navbar-brand img {
+        width: 40px;
+        height: 40px;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+        font-size: 20px;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    #banner {
+        padding: 200px 0 80px 0;
+    }
+    .banner_text h1 {
+        font-size: 40px;
+    }
+    .banner_text p {
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    .banner_text a {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+    #chef {
+        padding: 70px 0 70px 0;
+    }
+    .chef_text h2 {
+        font-size: 35px;
+    }
+    .chef_text p {
+        font-size: 18px;
+        padding: 0 10px;
+        padding-bottom: 30px;
+    }
+    .chef_img_text h2 {
+        font-size: 22px;
+    }
+    .chef_img_text p {
+        font-size: 17px;
+        padding-bottom: 20px;
+    }
+    #burger_right {
+        padding: 70px 0 70px 0;
+    }
+    .burger_right_text h2 {
+        font-size: 35px;
+    }
+    .burger_right_text p {
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    .burger_right_text a {
+        font-size: 18px;
+        padding: 12px 25px;
+    }
+    #burger_left {
+        padding: 70px 0 70px 0;
+    }
+    .burger_left_text{
+        padding-bottom: 30px;
+    }
+    .burger_left_text h2 {
+        font-size: 35px;
+        padding-top: 30px;
+    }
+    .burger_left_text p {
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .burger_left_text a {
+        font-size: 18px;
+        padding: 12px 25px;
+    }
+    #Statistics {
+        padding: 70px 0 70px 0;
+    }
+    .Statistics_text h2 {
+        font-size: 35px;
+    }
+    .Statistics_text p {
+        font-size: 18px;
+        padding: 20px 10px;
+    }
+    .Statistics_item {
+        margin: auto;
+        height: 110px;
+        width: 110px;
+    }
+    .Statistics_item h4 {
+        padding-top: 15px;
+        font-size: 30px;
+    }
+    .Statistics_item p {
+        font-size: 14px;
+    }
+    #package {
+        padding: 70px 0 70px 0;
+    }
+    .package_text h2 {
+        font-size: 35px;
+        padding-bottom: 50px;
+    }
+    .package_item {
+        padding: 20px 30px;
+    }
+    .package_item h4 {
+        font-size: 25px;
+    }
+    .package_item h6 {
+        font-size: 20px;
+    }
+    .package_item p {
+        font-size: 19px;
+    }
+    .package_item a {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    #comment {
+        padding: 70px 0;
+    }
+    .comment_item_text p {
+        font-size: 18px;
+        padding: 0px 0px;
+    }
+    .comment_item_text h4 {
+        font-size: 25px;
+    }
+    #update {
+        padding: 90px 0;
+    }
+    .update_text h2 {
+        font-size: 35px;
+    }
+    .update_text p {
+        font-size: 18px;
+        padding: 20px 10px;
+    }
+    .input-group input{
+        height: 41px;
+        border-radius: 50px;
+    }
+    .input-group input::placeholder{
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #f64b3c;
+        padding-left: 20px;
+    }
+    .input-group button{
+        background-color: #f64b3c;
+        padding: 7px 15px;
+        border-radius: 50px;
+        color: #ffffff;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .footer_text1 h4 {
+        font-size: 23px;
+    }
+    .footer_text1 p {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+    .footer_text2 h4 {
+        font-size: 23px;
+    }
+    .footer_text2 a {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-light .navbar-brand img {
+        width: 50px;
+        height: 50px;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+        font-size: 30px;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .banner_text h1 {
+        font-size: 50px;
+    }
+    .banner_text p {
+        font-size: 24px;
+        padding-bottom: 30px;
+    }
+    .banner_text a {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+    #chef {
+        padding: 70px 0 70px 0;
+    }
+    .chef_text h2 {
+        font-size: 40px;
+    }
+    .chef_text p {
+        font-size: 23px;
+        padding: 0 10px;
+        padding-bottom: 30px;
+    }
+    .chef_img_text h2 {
+        font-size: 27px;
+    }
+    .chef_img_text p {
+        font-size: 22px;
+        padding-bottom: 30px;
+    }
+    #burger_right {
+        padding: 70px 0 70px 0;
+    }
+    .burger_right_text h2 {
+        font-size: 40px;
+    }
+    .burger_right_text p {
+        font-size: 23px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    .burger_right_text a {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    #burger_left {
+        padding: 70px 0 70px 0;
+    }
+    .burger_left_text{
+        padding-bottom: 30px;
+    }
+    .burger_left_text h2 {
+        font-size: 40px;
+        padding-top: 30px;
+    }
+    .burger_left_text p {
+        font-size: 23px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .burger_left_text a {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    #Statistics {
+        padding: 70px 0 70px 0;
+    }
+    .Statistics_text h2 {
+        font-size: 40px;
+    }
+    .Statistics_text p {
+        font-size: 23px;
+        padding: 20px 10px;
+    }
+    .Statistics_item {
+        margin: auto;
+        height: 140px;
+        width: 140px;
+    }
+    .Statistics_item h4 {
+        padding-top: 20px;
+        font-size: 45px;
+    }
+    .Statistics_item p {
+        font-size: 18px;
+    }
+    #package {
+        padding: 70px 0 70px 0;
+    }
+    .package_text h2 {
+        font-size: 40px;
+        padding-bottom: 50px;
+    }
+    .package_item {
+        padding: 20px 25px;
+    }
+    .package_item p {
+        font-size: 23px;
+    }
+    .package_item h4 {
+        font-size: 27px;
+    }
+    .package_item h6 {
+        font-size: 24px;
+    }
+    .package_item a {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    #comment {
+        padding: 70px 0;
+    }
+    .comment_item_text p {
+        font-size: 25px;
+        padding: 0px 0px;
+    }
+    .comment_item_text h4 {
+        font-size: 29px;
+    }
+    #update {
+        padding: 90px 0;
+    }
+    .update_text h2 {
+        font-size: 40px;
+    }
+    .update_text p {
+        font-size: 23px;
+        padding: 20px 10px;
+    }
+    .input-group input{
+        height: 50px;
+        border-radius: 50px;
+    }
+    .input-group input::placeholder{
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        color: #f64b3c;
+        padding-left: 20px;
+    }
+    .input-group button{
+        background-color: #f64b3c;
+        padding: 9px 18px;
+        border-radius: 50px;
+        color: #ffffff;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .footer_text1 h4 {
+        font-size: 25px;
+    }
+    .footer_text1 p {
+        font-size: 21px;
+        padding-right: 0px;
+    }
+    .footer_text2 h4 {
+        font-size: 25px;
+    }
+    .footer_text2 a {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+ }
+
+ /* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) { .navbar-light .navbar-brand img {
+    width: 60px;
+    height: 60px;
+}
+.navbar-toggler i{
+    color: #ffffff;
+    font-size: 40px;
+}
+.navbar-toggler i{
+    color: #ffffff;
+}
+.navbar-light .navbar-toggler {
+    border: none;
+}
+.banner_text h1 {
+    font-size: 60px;
+}
+.banner_text p {
+    font-size: 27px;
+    padding-bottom: 30px;
+}
+.banner_text a {
+    font-size: 17px;
+    padding: 14px 24px;
+}
+#chef {
+    padding: 70px 0 70px 0;
+}
+.chef_text h2 {
+    font-size: 45px;
+}
+.chef_text p {
+    font-size: 27px;
+    padding: 0 10px;
+    padding-bottom: 30px;
+}
+.chef_img_text h2 {
+    font-size: 30px;
+}
+.chef_img_text p {
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+#burger_right {
+    padding: 70px 0 70px 0;
+}
+.burger_right_text h2 {
+    font-size: 45px;
+}
+.burger_right_text p {
+    font-size: 27px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.burger_right_text a {
+    font-size: 17px;
+    padding: 14px 24px;
+}
+#burger_left {
+    padding: 70px 0 70px 0;
+}
+.burger_left_text{
+    padding-bottom: 30px;
+}
+.burger_left_text h2 {
+    font-size: 45px;
+    padding-top: 30px;
+}
+.burger_left_text p {
+    font-size: 27px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.burger_left_text a {
+    font-size: 17px;
+    padding: 14px 24px;
+}
+#Statistics {
+    padding: 70px 0 70px 0;
+}
+.Statistics_text h2 {
+    font-size: 45px;
+}
+.Statistics_text p {
+    font-size: 27px;
+    padding: 20px 10px;
+}
+.Statistics_item {
+    margin: auto;
+    height: 140px;
+    width: 140px;
+}
+.Statistics_item h4 {
+    padding-top: 20px;
+    font-size: 45px;
+}
+.Statistics_item p {
+    font-size: 18px;
+}
+#package {
+    padding: 70px 0 70px 0;
+}
+.package_text h2 {
+    font-size: 45px;
+    padding-bottom: 50px;
+}
+.package_item {
+    padding: 20px 25px;
+}
+.package_item p {
+    font-size: 27px;
+}
+.package_item h4 {
+    font-size: 27px;
+}
+.package_item h6 {
+    font-size: 24px;
+}
+.package_item a {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+#comment {
+    padding: 70px 0;
+}
+.comment_item_text p {
+    font-size: 27px;
+    padding: 0px 0px;
+}
+.comment_item_text h4 {
+    font-size: 35px;
+}
+#update {
+    padding: 90px 0;
+}
+.update_text h2 {
+    font-size: 45px;
+}
+.update_text p {
+    font-size: 27px;
+    padding: 20px 10px;
+}
+.input-group input{
+    height: 60px;
+    border-radius: 50px;
+}
+.input-group input::placeholder{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #f64b3c;
+    padding-left: 20px;
+}
+.input-group button{
+    background-color: #f64b3c;
+    padding: 12px 22px;
+    border-radius: 50px;
+    color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+}
+.footer_text1 h4 {
+    font-size: 27px;
+}
+.footer_text1 p {
+    font-size: 23px;
+    padding-right: 0px;
+}
+.footer_text2 h4 {
+    font-size: 27px;
+}
+.footer_text2 a {
+    font-size: 23px;
+    margin-bottom: 10px;
+} }
